@@ -208,7 +208,7 @@ document.querySelectorAll('a').forEach(link => {
 
 // Typing Animation
 const typingText = document.querySelector('.typing-text');
-const texts = ['Java Web Developer', 'Full Stack Developer', 'UI/UX Designer'];
+const texts = ['Java Web Developer', 'Full Stack Developer'];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
